@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lam (prefer Max), a CS student at University of Illinois Chicago. 
-- 👀 I’m interested in Computer System & Architecture. I am also a hugely captivvated in theoretical math as well!
+- 👀 I’m interested in Computer System & Architecture. I also have a huge interest in theoretical math as well!
 - 🌱 I’m currently learning Linux & ML.
 
 
