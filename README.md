@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lam (prefer Max), a CS student at University of Illinois Chicago
-- 👀 I’m interested in Computer System & Architecture
-- 🌱 I’m currently learning Linux & ML
+- 👋 Hi, I’m Lam (prefer Max), a CS student at University of Illinois Chicago. 
+- 👀 I’m interested in Computer System & Architecture. I am also a hugely captivvated in theoretical math as well!
+- 🌱 I’m currently learning Linux & ML.
 
 
 <!---
